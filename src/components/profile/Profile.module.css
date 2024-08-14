@@ -41,8 +41,7 @@
     border: 1px solid black;
     display: flex;
     flex-direction: column;
-
-    padding: 4px;
+    padding: 5px;
     justify-content: center;
     align-items: center;
 }
